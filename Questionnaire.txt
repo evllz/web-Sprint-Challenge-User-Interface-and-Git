@@ -1,0 +1,19 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+	A: Semantics is the study of meaning in language. Meaning that semantic HTML is giving meaning to the elements that are aplied to the markup. This is processed by the web browsers.  
+
+2. Name two big differences between display: block; and display: inline;.
+	
+	A: The orientation, block aligns the elements in columns and inline in rows. Block elements can contain every other type of elements meanwhile inline elements can only contain other inline elements. 
+
+3. What are the 4 areas of the box model?
+	
+	A: Margin, Border, Padding, Content.
+
+4. While using flexbox, what axis does the following property work on: align-items: center?
+
+	A: The main axis.
+
+5. Explain why git is valuable to a team of developers.
+
+	A: One of the biggest advantages of Git is its branching capabilities. Git uses branches that are easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase. 
